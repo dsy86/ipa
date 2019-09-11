@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.34:8099/client/ios/Unity-iPhone1.0.100.100.ipa</string>
+					<string>http://192.168.1.34:8099/client/ios/Unity-iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unity-iPhone1.0.100.100.ipa</string>
+				<string>MythWars</string>
 			</dict>
 		</dict>
 	</array>
